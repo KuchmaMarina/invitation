@@ -296,6 +296,12 @@ display: block;
     left: 1120px;
     top: 78px;
 }
+#arrowRight:hover{
+    cursor: pointer;
+}
+#arrowLeft:hover{
+    cursor: pointer;
+}
 #circls{
 display: none;
 }
@@ -543,6 +549,7 @@ footer{
 }
 .fMenu li:hover{
     color:#c4ab2f;
+    cursor: pointer;
 }
 #fNewsletter{
     padding-top: 57px;
